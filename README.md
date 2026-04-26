@@ -223,7 +223,7 @@ The results show that Federated Learning can achieve strong intrusion detection 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/privacy-preserving-federated-ids-flnet2023.git
+git clone https://github.com/immi999/privacy-preserving-federated-ids-flnet2023.git
 cd privacy-preserving-federated-ids-flnet2023
 ```
 
